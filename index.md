@@ -33,7 +33,8 @@ A2 de Francés
 >·**Contacto**
 
 Mi numero de teléfono movil ===> 601036271
-Mi e-mail ===> [jokinn19@gmail.com](jokinn19@gmail.com)
+
+Mi e-mail ===> [(jokinn19@gmail.com)]
 
 
 
