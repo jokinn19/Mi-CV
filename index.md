@@ -4,6 +4,7 @@
 Hola soy Joaquin pero todos me llaman Jokin, 
 Estudio en ITC Cuatrovientos y
 Actualmente estoy en 1º de **_DAM_** (Desarrollo de Aplicaciones Multiplataforma).
+[Foto Jokin](https://github.com/jokinn19/myCV/files/5283580/foto.orla.Joaquin.002.pdf)
 
  
 
