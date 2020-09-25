@@ -1,6 +1,8 @@
 **Mi CV**
 =========
 Hola soy Joaquin pero todos me llaman Jokin 
-Estudio en ITC Cuatrovientos
+Estudio en ITC Cuatrovientos 
+Actualmente estoy en 1º de _DAM_ (Desarrollo de Aplicaciones Multiplataforma)
 
-![ITC Cuatrovientos](https://pbs.twimg.com/profile_images/1105006546919047168/v5xrI4oS.png)
+
+![ITC Cuatrovientos](https://lh3.googleusercontent.com/proxy/-seNQt5oY8f8Qe97L3t66kYGOu2Jtwy_oD0379I2rwnebKdz4gDYShUUxJ15AwLxcWWkJHiNNcXjOr0b9rGVONSEyKH5e1MFQky4uoS3C7sRUaXsL5wPIoP4W51gw_N90ZpRBeofMHldgvu5ZGfJJPAFZ89X1iq3jao)
