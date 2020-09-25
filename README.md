@@ -1,2 +1,1 @@
-# myCV
-Algo sobre mi
+# Mi CV
