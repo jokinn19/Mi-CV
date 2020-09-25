@@ -1,7 +1,7 @@
 **Mi CV**
 =========
 
-Hola! soy Joaquin, pero todos me llaman Jokin. Naci en Mar del Plata (Argentina) pero vivo en Irurtzun, Navarra (España)
+Hola! soy Joaquin, pero todos me llaman Jokin. Nací en Mar del Plata (Argentina) pero vivo en Irurtzun, Navarra (España)
 
 ![Captura](https://user-images.githubusercontent.com/71701957/94286311-20740980-ff55-11ea-872f-40de15f25f68.PNG)
 
@@ -35,7 +35,7 @@ A2 de Francés acreditado
 
 Mi numero de teléfono movil ===> 601036271
 
-Mi e-mail ===> jokinn19@gmail.com
+Mi e-mail ===> [jokinn19@gmail.com](jokinn19@gmail.com)
 
 
 
