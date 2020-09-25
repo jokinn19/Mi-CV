@@ -28,7 +28,8 @@ Juego a fútbol sala en Osasuna Magna Xota
 >·**Idiomas**
 
 Tengo un B2 en Inglés y estoy esperando el resultado del examen de C1
-A2 de Francés
+
+A2 de Francés acreditado
 
 >·**Contacto**
 
