@@ -34,7 +34,7 @@ A2 de Francés
 
 Mi numero de teléfono movil ===> 601036271
 
-Mi e-mail ===> [(jokinn19@gmail.com)]
+Mi e-mail ===> jokinn19@gmail.com
 
 
 
