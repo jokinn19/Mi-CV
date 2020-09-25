@@ -4,7 +4,11 @@
 Hola soy Joaquin pero todos me llaman Jokin, 
 Estudio en ITC Cuatrovientos y
 Actualmente estoy en 1º de **_DAM_** (Desarrollo de Aplicaciones Multiplataforma).
-[Foto Jokin](https://github.com/jokinn19/myCV/files/5283580/foto.orla.Joaquin.002.pdf)
+
+![Captura](https://user-images.githubusercontent.com/71701957/94284760-1fda7380-ff53-11ea-9b76-79dc230ac3bc.PNG)
+
+Juego a futbol sala en Osasuna Magna Xota
+
 
  
 
