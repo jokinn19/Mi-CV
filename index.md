@@ -10,7 +10,7 @@ Hola soy Joaquin pero todos me llaman Jokin. Naci en Mar del Plata (Argentina) p
 
 
 
-**Estudios**
+>·**Estudios**
 
 He hecho Bachiller en Santo Tomas Dominicas Pamplona, por la rama de Ciencias Sociales
 
@@ -25,11 +25,15 @@ Juego a fútbol sala en Osasuna Magna Xota
 
 ![Captura de pantalla 2020-09-25 172508](https://user-images.githubusercontent.com/71701957/94286304-1d791900-ff55-11ea-9584-0411be0c6257.png)
 
-**Idiomas**
+>·**Idiomas**
 
 Tengo un B2 en Inglés y estoy esperando el resultado del examen de C1
 A2 de Francés
 
+>·**Contacto**
+
+Mi numero de teléfono movil ===> 601036271
+Mi e-mail ===> [jokinn19@gmail.com](jokinn19@gmail.com)
 
 
 
